@@ -1,7 +1,7 @@
 # Hello World in Kotlin
 
 ## Overview
-This is my Hello World software for CSE 310. I am using this assignment to set up my Kotlin development environment and learn how to publish code to GitHub.
+This is my Hello World software.
 
 ## Development Environment
 *   **Language:** Kotlin
