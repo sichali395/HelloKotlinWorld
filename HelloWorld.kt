@@ -4,6 +4,6 @@
 fun main() {
     // Printing a greeting to the screen
     println("Hello World!")
-    println("Hello! (Moni in Chichewa)")
+    println("Moni! (Hello in Chichewa)")
     println("My name is Laston, and I am learning Kotlin.")
-}
+}4533

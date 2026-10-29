@@ -17,4 +17,4 @@ This is my Hello World software for CSE 310. I am using this assignment to set u
 *   Build the "Guardian" CLI Safety Engine in Module 1.
 
 ## Video Demonstration
-*   [Watch my Hello World Video here]({Paste your YouTube link here later})
+*   [Watch my Hello World Video here]({https://www.loom.com/share/df764e90ee2a46f782f2668569f6d212})
